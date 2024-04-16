@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.css.d.ts
+node_modules/
+node_modules
+dist

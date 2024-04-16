@@ -1,0 +1,15 @@
+{
+  "name": "ai sticky",
+  "id": "ai-sticky",
+  "api": "1.0.0",
+  "editorType": ["figma", "figjam"],
+  "permissions": [],
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://62nwxl4qe4h7czpxmh7kehf5qu0kkyva.lambda-url.us-east-1.on.aws"
+    ]
+  },
+  "documentAccess": "dynamic-page"
+}
